@@ -3,7 +3,7 @@ const app = express()
 const bodyParser = require('body-parser')
 const mongoose = require('mongoose')
 
-const mongoURL = 'mongodb+srv://lbc:c3kSqenZZLc6Vshk@cluster0.qt6k6.gcp.mongodb.net/<dbname>?retryWrites=true&w=majority'
+const mongoURL = ''
 
 //const model = require('./Todo')
 
